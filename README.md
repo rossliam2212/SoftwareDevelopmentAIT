@@ -10,6 +10,7 @@ All the java lab work completed from my software development module in AIT.
   - [Lab 4](#lab-4)
   - [Lab 5](#lab-5)
   - [Lab 6](#lab-6)
+  - [Lab 7](#lab-7)
 - [Year 3](#year-3)
 - [Year 4](#year-4)
 
@@ -75,6 +76,16 @@ pealse jmulbe tehse ltetres
 
 3. Create a GUI for Creating a new Building that changes based on the type selected.
 
+### Lab 7
+[src](https://github.com/rossliam2212/SoftwareDevelopmentAIT/tree/master/Year2/Lab7/src)
+1. Create a class CurrencyConverter which implements an Interface BaseCurrency(USD), write a test class to convert to this base currency from Euro. (You can find current exchange rates on XE.com)
+
+2. Extend the CurrencyConverter class to become MultipleCurrencyConverter modify the interface for the currencies Euro, Yuan, and GBP, create a test class for this.
+
+3. Create a GUI which can update a display for all currencies based on the input of an amount in any currency field
+
+<img width="798" alt="Screenshot 2022-01-21 at 23 25 13" src="https://user-images.githubusercontent.com/73957889/150612816-10ef9089-0046-4339-94d4-654e8d4db2de.png">
+<img width="798" alt="Screenshot 2022-01-21 at 23 26 07" src="https://user-images.githubusercontent.com/73957889/150612824-0174bd9a-a421-4e07-92ff-3f1fed23e4f6.png">
 
 ## Year 3
 --
