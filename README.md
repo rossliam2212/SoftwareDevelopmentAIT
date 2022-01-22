@@ -1,6 +1,6 @@
 # Software Development AIT - Java
 
-All the java lab work completed from my software development module in AIT.
+All of the Java lab work I've completed as part of my Software Development module in AIT.
 
 ## Quick Links
 - [Year 2](#year-2)
@@ -11,6 +11,7 @@ All the java lab work completed from my software development module in AIT.
   - [Lab 5](#lab-5)
   - [Lab 6](#lab-6)
   - [Lab 7](#lab-7)
+  - [Lab 8](#lab-8)
 - [Year 3](#year-3)
 - [Year 4](#year-4)
 
@@ -78,7 +79,7 @@ pealse jmulbe tehse ltetres
 
 ### Lab 7
 [src](https://github.com/rossliam2212/SoftwareDevelopmentAIT/tree/master/Year2/Lab7/src)
-1. Create a class CurrencyConverter which implements an Interface BaseCurrency(USD), write a test class to convert to this base currency from Euro. (You can find current exchange rates on XE.com)
+1. Create a class CurrencyConverter which implements an Interface BaseCurrency(USD), write a test class to convert to this base currency from Euro.
 
 2. Extend the CurrencyConverter class to become MultipleCurrencyConverter modify the interface for the currencies Euro, Yuan, and GBP, create a test class for this.
 
@@ -86,6 +87,13 @@ pealse jmulbe tehse ltetres
 
 <img width="798" alt="Screenshot 2022-01-21 at 23 25 13" src="https://user-images.githubusercontent.com/73957889/150612816-10ef9089-0046-4339-94d4-654e8d4db2de.png">
 <img width="798" alt="Screenshot 2022-01-21 at 23 26 07" src="https://user-images.githubusercontent.com/73957889/150612824-0174bd9a-a421-4e07-92ff-3f1fed23e4f6.png">
+
+### Lab 8
+1. Create a GUI with a canvas, this canvas implements a mouseactionlistener to gather points on the screen. Create a draw button to connect these points.
+
+2. Create a GUI with a canvas, click to drop a random shape. If you click the shape it changes colour, if you click the canvas it draws a new random shape and removes the old one.
+
+3.  Create a GUI with a canvas, multiple shapes can be dropped using buttons to select colour and shape, each dropped shape must be movable around the canvas.
 
 ## Year 3
 --
