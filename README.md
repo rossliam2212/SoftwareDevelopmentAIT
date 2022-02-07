@@ -12,6 +12,7 @@ All of the Java lab work I've completed as part of my Software Development modul
   - [Lab 6](#lab-6)
   - [Lab 7](#lab-7)
   - [Lab 8](#lab-8)
+  - [Lab 9](#lab-9)
 - [Year 3](#year-3)
 - [Year 4](#year-4)
 
@@ -97,6 +98,14 @@ pealse jmulbe tehse ltetres
 3.  Create a GUI with a canvas, multiple shapes can be dropped using buttons to select colour and shape, each dropped shape must be movable around the canvas.
 <img width="747" alt="Screenshot 2022-01-26 at 01 24 59" src="https://user-images.githubusercontent.com/73957889/151281059-b262e20e-228b-4847-9ed6-a11cc5ffbee1.png">
 <img width="749" alt="Screenshot 2022-01-27 at 02 27 21" src="https://user-images.githubusercontent.com/73957889/151281068-97cdaed7-c553-49f1-9d33-4626376719e0.png">
+
+### Lab 9
+[src]()
+1. Create or extend the currency converter GUI to use the Jsoup library to convert between the four currencies
+
+2. Create a circle(player) on a canvas, allow the player to move with wasd keys.
+
+3. Extend the functionality of part 2, create an Arraylist of random shapes, once the player is above the shape pressing space will eliminate the shape, the application ends when all shapes are consumed.
 
 ## Year 3
 --
